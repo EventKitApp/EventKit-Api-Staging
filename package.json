@@ -1,0 +1,31 @@
+{
+  "name": "eventkit-api-staging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EventKitApp/EventKit-Api-Staging.git"
+  },
+  "author": "Berk Turan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EventKitApp/EventKit-Api-Staging/issues"
+  },
+  "homepage": "https://github.com/EventKitApp/EventKit-Api-Staging#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "firebase": "^7.8.1",
+    "moment": "^2.24.0",
+    "pg": "^7.18.1",
+    "util": "^0.12.1",
+    "uuid": "^3.4.0",
+    "uuid-by-string": "^3.0.2"
+  }
+}

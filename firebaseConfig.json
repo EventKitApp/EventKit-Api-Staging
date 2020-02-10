@@ -1,0 +1,21 @@
+{
+  "staging": {
+    "apiKey": "AIzaSyDWkCAIdHKXHoeXcsQk6CUh_pU5Whw55w0",
+    "authDomain": "eventkit-staging.firebaseapp.com",
+    "databaseURL": "https://eventkit-staging.firebaseio.com",
+    "projectId": "eventkit-staging",
+    "storageBucket": "eventkit-staging.appspot.com",
+    "messagingSenderId": "897662229273",
+    "appId": "1:897662229273:web:85f94c025938f342ef0388"
+  },
+  "production": {
+    "apiKey": "AIzaSyC08HZBd50zPWwZUgHlBi3YMU2HvvRLZ-Y",
+    "authDomain": "eventkit-e3714.firebaseapp.com",
+    "databaseURL": "https://eventkit-e3714.firebaseio.com",
+    "projectId": "eventkit-e3714",
+    "storageBucket": "eventkit-e3714.appspot.com",
+    "messagingSenderId": "1021914281487",
+    "appId": "1:1021914281487:web:923b8c4a6a41281929957a",
+    "measurementId": "G-649NP982B7"
+  }
+}
